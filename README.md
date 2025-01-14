@@ -10,15 +10,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
-        <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=trinib&theme=merko&layout=compact&border_color=599200&langs_count=6">
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=leomouginb&show_icons=true&theme=merko&border_color=599200">
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=leomougin&theme=merko&layout=compact&border_color=599200&langs_count=6">
 
     </p>
 </div>
 
- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=leomougin&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=leomougin&repo=pixel-weather">
-</p>
 
 
