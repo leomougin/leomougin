@@ -1,7 +1,5 @@
 ## Hi there 👋
-<!--
-Changer le texte dans la source du svg
--->
+
 
 
 <p align="center">
