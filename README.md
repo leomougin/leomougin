@@ -8,6 +8,10 @@
     <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=leomougin&show_icons=true&theme=merko&border_color=599200" >
     <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=leomougin&theme=merko&layout=compact&border_color=599200&langs_count=6"> 
 </p>
-    <img width="50" height="50" src="https://avatars0.githubusercontent.com/u/1680273?s=460&u=4471b74deb9973096418a93960c664c5ea3bd159&v=4" />
 
-### Languages and Tools
+## Languages and Tools 🛠️
+
+### Visitor count
+<p align="center">
+    <img src="https://profile-counter.glitch.me/leomougin/count.svg" />
+    <img width="50" height="50" src="https://avatars0.githubusercontent.com/u/1680273?s=460&u=4471b74deb9973096418a93960c664c5ea3bd159&v=4" />
