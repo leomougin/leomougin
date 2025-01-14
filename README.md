@@ -8,6 +8,7 @@
     <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=leomougin&show_icons=true&theme=merko&border_color=599200" >
     <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=leomougin&theme=merko&layout=compact&border_color=599200&langs_count=6"> 
 </p>
+
 ## Languages and Tools 🛠️
 
 
