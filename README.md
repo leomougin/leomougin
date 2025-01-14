@@ -7,6 +7,15 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Back-End%20Déveloper%20Junior;2%20years%20of%20coding%20experience;Still%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=3498db&vCenter=true&pause=1000&size=22" />
 </p>
 
+<div align="center">
+    <p align="start">
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
+    </p>
+    <p align="end">
+        <a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=trinib&theme=merko&layout=compact&border_color=599200&langs_count=6">
+
+    </p>
+</div>
 
  <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=leomougin&repo=ytdx">
