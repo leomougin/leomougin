@@ -1,6 +1,6 @@
 ## Hi there 👋 
 <img width="60" height="60" src="https://avatars0.githubusercontent.com/u/1680273?s=460&u=4471b74deb9973096418a93960c664c5ea3bd159&v=4" />
-<img src="https://i.imgur.com/ozEwbHs.gif">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 
 <p align="center">
