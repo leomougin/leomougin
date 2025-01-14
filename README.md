@@ -9,7 +9,7 @@
 
 
  <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=leo.mougin&repo=ytdx">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=leomougin&repo=ytdx">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=leomougin&repo=pixel-weather">
 </p>
 
